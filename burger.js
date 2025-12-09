@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(()=>{const e=document.getElementById("psBurgerBtn"),t=document.getElementById("psNavMenu");e.addEventListener("click",(()=>{t.classList.toggle("nav-open")}))}));
